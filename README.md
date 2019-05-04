@@ -1,5 +1,6 @@
 # Hotelbot
-A chatbot which books a room for its client.
+Chatbots are becoming more and more popular these days and their appearance in our day to day life will continue to rise in the next years.
+**HotelBot** is a chatbot which books rooms for its client in a hotel. It is very easy to integrate it to any hotel's website.
 - Using Google's Dialogflow.
 - Integrated with Web and telegram.
 
